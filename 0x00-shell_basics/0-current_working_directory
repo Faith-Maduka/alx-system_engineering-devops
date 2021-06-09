@@ -1,4 +1,4 @@
-#!/bin/bash\n
-/home/alx-system_engineering-devops/0x00-shell_basics\n
+#!/bin/bash \n
+pwd \n
 
 
