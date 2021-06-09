@@ -1,2 +1,4 @@
 #!/bin/bash
-We will be taking more commans here.
+\n
+We will be taking more commands here.
+\n
